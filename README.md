@@ -48,12 +48,6 @@ Discord'da botun bulunduğu bir kanalda aşağıdaki komutu kullanarak hava duru
 
 Bu komut, belirtilen şehir için hava durumu bilgilerini her gün saat 09:00'da kullanıcıya DM olarak gönderecektir.
 
-## Geliştirme Fikirleri
-
-- Kullanıcıların hava durumu bildirimlerini durdurmalarına veya değiştirmelerine olanak tanıyabilirsiniz.
-- Farklı şehirlerde birden fazla iş kurabilirsiniz.
-- Hava durumu bilgilerini daha ayrıntılı hale getirebilirsiniz (yükseklik, basınç vb.).
-
 Bu bot, her kullanıcı için kişiselleştirilmiş hava durumu bildirimleri sunar ve MongoDB veritabanında kullanıcı bilgilerini saklar.
 ```
 
