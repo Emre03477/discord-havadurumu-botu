@@ -28,7 +28,7 @@ npm install discord.js node-fetch mongoose
 
 Proje klasörünüzde aşağıdaki komutu çalıştırarak botu başlatın:
 
-```bash
+```
 node bot.js
 ```
 
